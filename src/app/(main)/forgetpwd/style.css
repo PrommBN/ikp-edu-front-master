@@ -1,0 +1,21 @@
+.shadow-login{
+        box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.25) ;
+}
+.input-field{
+    border: 1px solid #ADADAD;
+    padding: 15px 20px;
+}
+
+.radio-input:checked + .checker {
+    background-color: azure; /* สีเมื่อถูกเลือก */
+}
+
+.btn-reset{
+    box-shadow: 0px 4px 19px rgba(119, 147, 65, 30%);
+}
+
+.err{
+    border: 1px solid #d60e0e;
+    padding: 15px 20px;
+
+}
